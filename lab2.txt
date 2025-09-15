@@ -14,4 +14,9 @@ You have created a GitHub repository and want to share it with your friend Bob b
 1. which device acts as the client
 2. which device acts as the server
 3. How Bob's browser requests the repository content
- 4. How the server responds and sends the content back to Bob
+4. How the server responds and sends the content back to Bob
+
+I upload my file into a github repository
+Bob (the client) requests the information from the server (github) by clicking the link.
+the server responds by entering into a client/server relationship with Bob's comuter
+Bob's computer displays the results to him via his web browser
